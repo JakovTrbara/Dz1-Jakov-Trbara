@@ -1,0 +1,16 @@
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\DZ1_Project.exe
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\DZ1_Project.deps.json
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\DZ1_Project.runtimeconfig.json
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\DZ1_Project.runtimeconfig.dev.json
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\DZ1_Project.dll
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\DZ1_Project.pdb
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.csprojAssemblyReference.cache
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.AssemblyInfoInputs.cache
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.AssemblyInfo.cs
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.csproj.CoreCompileInputs.cache
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.csproj.CopyComplete
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.dll
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.pdb
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\DZ1_Project\obj\Debug\netcoreapp3.1\DZ1_Project.genruntimeconfig.cache

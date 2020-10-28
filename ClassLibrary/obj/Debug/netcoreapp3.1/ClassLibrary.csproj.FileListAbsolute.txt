@@ -1,0 +1,9 @@
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csprojAssemblyReference.cache
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+D:\FERIT\OOP\DomaceZadace\DZ1\Rješenje\DZ1_Rjesenje\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
